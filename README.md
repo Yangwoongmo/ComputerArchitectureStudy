@@ -1,2 +1,5 @@
-# ComputerArchitectureStudy
-컴퓨터 구조와 운영체제 공부 기록용
+# Today I Learned
+
+2023 / 05 / 07 시작
+
+컴퓨터공학, 구조와 운영체제 공부 기록
